@@ -161,14 +161,14 @@ span  {
 .images:hover .profile{
     left: 90%;
 }
-.shape{
-    height: 80%;
-    width: 100%;
+/* .shape{
+    height: auto;
+    width: auto;
 }
 .profile{
-    height: 10%;
-    width: 40%;
-}
+    height: auto;
+    width: auto;
+} */
 .bottom-line {
     height: 2px;
     background-color: var(--color);
