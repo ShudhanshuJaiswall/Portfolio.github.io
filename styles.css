@@ -156,10 +156,10 @@ span  {
     color: orange;
 }
 .images:hover .shape{
-    bottom: 4rem;
+    bottom: 3rem;
 }
 .images:hover .profile{
-    left: 80%;
+    left: 90%;
 }
 .shape{
     height: 80%;
